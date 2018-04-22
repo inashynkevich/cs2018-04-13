@@ -1,4 +1,4 @@
-package by.it._tasks_.shynkevich.lesson02;
+package by.it.shynkevich.lesson02;
 /*
 Измените переменные и строку вывода в программе так,
 чтобы она рассчитывала и печатала следующее выражение

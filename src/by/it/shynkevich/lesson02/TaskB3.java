@@ -1,4 +1,4 @@
-package by.it._tasks_.shynkevich.lesson02;
+package by.it.shynkevich.lesson02;
 /*
         Уберите комментарии с части кода, чтобы на экран вывелось сообщение «C Новым Годом».
 
