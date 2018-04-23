@@ -39,6 +39,7 @@ public class TaskA3 {
         else if (a==c)
             System.out.println(a+" "+c);
 
+
     }
 
 }
