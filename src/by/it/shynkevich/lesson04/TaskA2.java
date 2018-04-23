@@ -24,6 +24,22 @@ package by.it.shynkevich.lesson04;
 
  */
 
+import java.util.Scanner;
+
 public class TaskA2 {
+    public static void main(String[] args) {
+        Scanner scanner=new Scanner (System.in);
+        int day=scanner.nextInt();
+        switch (day){
+            case 1: system.out.println("понедельник");break;
+            case 2: system.out.println("вторник");break;
+            case 3: system.out.println("среда");break;
+            case 4: system.out.println("четверг");break;
+            case 5: system.out.println("пятница");break;
+            case 6: system.out.println("суббота");break;
+            case 7: System.out.println("воскресенье");break;
+            default: System.out.println("такого");
+        }
+    }
 
 }
